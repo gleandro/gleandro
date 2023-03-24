@@ -20,6 +20,19 @@
   </h1>
 </div>
 
+```java
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "Java", "Typescript", "Javascript" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+    "Database" : { "Sql Server", "Oracle", "Mysql", "Postgres", "MongoDB" },
+    "Editors" : { "Intellij Idea", "Visual Code" },
+    "Platforms" : { "GNU/Linux", "Windows" },
+    "OtherTools" : { "Git", "Figma" }
+  };
+}
+```
+
 
 - 🔭 I’m currently working on **Ventura Solutions**
 
@@ -31,6 +44,7 @@
 
 - ⚡ Fun fact **i think that if you can imaginate it, you can do it**
 
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gontherlr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gontherlr" height="30" width="40" /></a>
@@ -40,5 +54,6 @@
 <a href="https://instagram.com/giancarloleandro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giancarloleandro" height="30" width="40" /></a>
 </p>
 
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gleandro&show_icons=true&theme=radical)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gleandro&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
