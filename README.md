@@ -34,7 +34,7 @@ class About extends Me {
 ```
 
 
-- 🔭 I’m currently working on **Ventura Solutions**
+- 🔭 I’m currently working on **New Digital Partner**
 
 - 🌱 I’m currently learning **Astro and Amazon AWS**
 
