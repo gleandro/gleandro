@@ -4,7 +4,7 @@
     Hi, I'm Giancarlo
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     <br>
-    <span align="center"> <h6>Apassionate full stack developer from Peru</h6></span>
+    <span align="center"> <h6>Apassionate full stack developer from Perú</h6></span>
   </h1>
 </div>
 
