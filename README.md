@@ -49,7 +49,6 @@ class About extends Me {
 <p align="left">
 <a href="https://twitter.com/gontherlr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gontherlr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/giancarloleandro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giancarloleandro" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/giancarlo-leandro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="giancarlo-leandro" height="30" width="40" /></a>
 <a href="https://fb.com/carlitosleandro.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="carlitosleandro.r" height="30" width="40" /></a>
 <a href="https://instagram.com/giancarloleandro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giancarloleandro" height="30" width="40" /></a>
 </p>
